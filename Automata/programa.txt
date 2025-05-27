@@ -1,0 +1,7 @@
+fun():
+	num a_factorial
+	input(a_factorial)
+	num n = a_factorial
+	for(a_factorial-1 to 1);
+		n = n * a_factorial
+	print(n)		
